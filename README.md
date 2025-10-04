@@ -93,6 +93,11 @@ Predictive analysis for surge pricing and ride demand.
 📸 Dashboard Previews
 
 <img width="2400" height="1346" alt="Overview" src="https://github.com/user-attachments/assets/a0a3dce5-e509-4bfd-9eaf-2424df7384ee" />
+<img width="2401" height="1346" alt="Vehicle Type" src="https://github.com/user-attachments/assets/6a16eccd-3792-4d1d-bd0b-b19d05b92baa" />
+<img width="2379" height="1348" alt="Revenue" src="https://github.com/user-attachments/assets/2d02fdc3-214b-4890-8d8e-b9584c2adf9a" />
+<img width="2393" height="1333" alt="Cancellation" src="https://github.com/user-attachments/assets/07b5996c-f610-4900-91dc-54a32cb23ab4" />
+<img width="2396" height="1345" alt="Ratings" src="https://github.com/user-attachments/assets/14fa8423-c34f-4211-821a-a0552359243e" />
+
 
 
 ✨ This project demonstrates advanced SQL analysis, Excel preprocessing, and interactive Power BI dashboards applied to a real-world industry scenario
