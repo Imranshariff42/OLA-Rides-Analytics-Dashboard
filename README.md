@@ -90,6 +90,8 @@ Integrate real-time data pipelines with Python.
 
 Predictive analysis for surge pricing and ride demand.
 
+**Live Dashboard : ** https://app.powerbi.com/view?r=eyJrIjoiNDUxNTkwMjgtZTkwMi00NDUxLWIwZTMtZjFkY2U4ZmJhOWZhIiwidCI6ImQ0NjZlNTA5LWQ4YWMtNGZmZC1iMTAxLWViN2QzYmQ1MzlhYSJ9
+
 📸 Dashboard Previews
 
 <img width="2400" height="1346" alt="Overview" src="https://github.com/user-attachments/assets/a0a3dce5-e509-4bfd-9eaf-2424df7384ee" />
