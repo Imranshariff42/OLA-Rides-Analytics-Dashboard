@@ -1,11 +1,11 @@
-🚖 OLA Rides Data Analytics Project
+🚖 **OLA Rides Data Analytics Project**
 
-📌 Project Overview
+📌 **Project Overview**
 
 The OLA Rides Data Analytics Project focuses on analyzing ride-sharing data to uncover insights about customer behavior, revenue trends, cancellations, and vehicle performance.
 Using Excel, SQL, and Power BI, I transformed raw ride data into meaningful dashboards that support business decisions in operations, customer experience, and revenue growth.
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Excel → Data cleaning, formatting, and preprocessing.
 
@@ -13,7 +13,7 @@ SQL → Querying, aggregations, and advanced analysis.
 
 Power BI → KPIs, interactive dashboards, data storytelling.
 
-📂 Data Source
+📂 **Data Source**
 
 Dataset inspired by real-world ride-sharing platforms, containing:
 
@@ -31,7 +31,7 @@ Booking Status (Completed, Cancelled by Customer/Driver)
 
 Vehicle Rating (1–5 scale, provided by customers)
 
-📊 Key Business Questions Answered
+📊 **Key Business Questions Answered**
 
 What are the Total Bookings, Total Revenue, and Average Fare per Ride?
 
@@ -45,7 +45,7 @@ Which days, times, and cities see the highest demand?
 
 What are the cancellation patterns and how do they affect revenue?
 
-📈 Features & Highlights
+📈 **Features & Highlights**
 
 1. SQL Queries
 
@@ -69,7 +69,7 @@ Performance Page: Revenue by car type, cancellations breakdown, ride completion 
 
 Filters: City, Car Type, Payment Method.
 
-💡 Insights & Business Impact
+💡 **Insights & Business Impact**
 
 High Demand Windows: Evenings and weekends had the most bookings—suggesting targeted promotions.
 
@@ -82,7 +82,7 @@ Vehicle Ratings: Prime rides had the highest customer satisfaction ratings, high
 Retention Strategy: Improving cancellation handling and incentivizing drivers could reduce lost revenue.
 
 
-🚀 Future Enhancements
+🚀 **Future Enhancements**
 
 Add driver performance metrics (avg trips/day, acceptance rate).
 
@@ -90,9 +90,9 @@ Integrate real-time data pipelines with Python.
 
 Predictive analysis for surge pricing and ride demand.
 
-**Live Dashboard : ** https://app.powerbi.com/view?r=eyJrIjoiNDUxNTkwMjgtZTkwMi00NDUxLWIwZTMtZjFkY2U4ZmJhOWZhIiwidCI6ImQ0NjZlNTA5LWQ4YWMtNGZmZC1iMTAxLWViN2QzYmQ1MzlhYSJ9
+**Live Dashboard** : https://app.powerbi.com/view?r=eyJrIjoiNDUxNTkwMjgtZTkwMi00NDUxLWIwZTMtZjFkY2U4ZmJhOWZhIiwidCI6ImQ0NjZlNTA5LWQ4YWMtNGZmZC1iMTAxLWViN2QzYmQ1MzlhYSJ9
 
-📸 Dashboard Previews
+📸 **Dashboard Previews**
 
 <img width="2400" height="1346" alt="Overview" src="https://github.com/user-attachments/assets/a0a3dce5-e509-4bfd-9eaf-2424df7384ee" />
 <img width="2401" height="1346" alt="Vehicle Type" src="https://github.com/user-attachments/assets/6a16eccd-3792-4d1d-bd0b-b19d05b92baa" />
